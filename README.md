@@ -1,2 +1,3 @@
 ## Description
-Working with basic git commands
+
+This is day 2 of into to Git and GitHub
